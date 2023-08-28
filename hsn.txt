@@ -1,3 +1,5 @@
 HI mohmaed hussain
 how are you
 i am fine
+welcome to git
+to store filr in git
